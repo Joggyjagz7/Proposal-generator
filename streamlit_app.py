@@ -1,3 +1,5 @@
+!pip install openai
+
 import openai as ai
 import json
 import streamlit as st 
